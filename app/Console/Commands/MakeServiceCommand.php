@@ -3,7 +3,6 @@
 namespace App\Console\Commands;
 
 use Illuminate\Console\GeneratorCommand;
-use Illuminate\Support\Str;
 
 class MakeServiceCommand extends GeneratorCommand
 {
